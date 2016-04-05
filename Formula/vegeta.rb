@@ -3,8 +3,8 @@ require "language/go"
 class Vegeta < Formula
   desc "HTTP load testing tool and library"
   homepage "https://github.com/tsenart/vegeta"
-  url "https://github.com/tsenart/vegeta/archive/v6.0.0.tar.gz"
-  sha256 "7933a77eaae1e5269f6490842527a646221d91515eb8e863e831df608e7a0d48"
+  url "https://github.com/tsenart/vegeta/archive/v6.1.0.tar.gz"
+  sha256 "60d2b6cb51d069ef207f9c9e9a6c437df0f7159939ee10086131620f8e6d3916"
   revision 1
 
   bottle do
